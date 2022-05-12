@@ -155,4 +155,20 @@
     - Dados de um site/app precisa estar em um servidor
   - WEB-SERVER - Interface  disponível para fazer requisições e consultas (CEP)
     - permite que não acesse dados sensíveis do banco de dados , não compromete a segurança;
-    - 
+
+### Aula 6 - Stacks
+
+- **Stacks** 
+  - Pilhas de tecnologia,
+  - Conjunto de softwares necessários para executar um app/programa
+  - Inclui as linguagens de programação; ambientes de desenvolvimento; ambiente de testes...
+  - Todas as ferramentas e tecnologias que fazem parte da empresa; o que está à sua disposição para desenvolvimento do app;
+  - Bancos de dados
+  - sistemas operacionais
+  - tipo de comunicação
+  - qual o tipo de segurança
+  - rede, infra
+  - Capacidade e limitação de performance;
+  - Pontos fortes e fracos do sw (software);
+  - IDE's;
+
