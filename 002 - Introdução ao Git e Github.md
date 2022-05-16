@@ -28,7 +28,7 @@
 - Trees - armazena blobs;
 - Commits - Traz parente (versão anterior), mensagem que dá significado as alterações realizadas, nome dos arquivo, início do sha1 do commit, autor, timestamp;
 
-- \*\*Estado dos arquivos no Git\*\*:
+- *\*Estado dos arquivos no Git** :
 - Untracked - um arquivo que o Git não conhece ainda; arquivo recém criado no PC;
 - Tracked: Git já tem conhecimento
 - unmodified - não foi modificado desde o momento que o Git ficou sabendo dele;
